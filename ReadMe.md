@@ -1,0 +1,1 @@
+yarn jar mapReduceTest-1.0-SNAPSHOT.jar com.phoneData.FlowDriver /user/student/zhaoguanglai/HTTP_20130313143750.dat /user/student/zhaoguanglai/output
